@@ -10,7 +10,6 @@ categories: [blog, productivity]
     <figcaption>
     </figcaption>
 </div>
-
 The inspiration for this blog post came from a conversation with a colleague who lamented the sheer number of meetings he now has to attend. As a recent promotee to team lead, his days are filled with managerial tasks, leaving less room for the technical work that once was his primary focus. This scenario is commonplace in large organizations where career advancement often equates to a transition into management. Such a shift means trading hands-on technical work for overseeing others, a change that isn't always welcomed.
 
 Many would view a promotion as a positive step, given elevated status it brings within a company, sometimes accompanied with higher salary. However, I've encountered several individuals who dread this transition, particularly those who relish the technical aspects of their roles.
