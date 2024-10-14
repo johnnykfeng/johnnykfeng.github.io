@@ -6,7 +6,7 @@ categories: [blog, productivity]
 ---
 
 <div style="text-align: center;">
-    <a href="https://i.imgur.com/pZEXDpQ.png"><img src="https://i.imgur.com/pZEXDpQ.png" title="source: imgur.com" width="896" height="450"/></a>
+    <a href="https://i.imgur.com/pZEXDpQ.png"><img src="https://i.imgur.com/pZEXDpQ.png" title="source: imgur.com" width="600" height="330"/></a>
     <figcaption>
     </figcaption>
 </div>
