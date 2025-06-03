@@ -74,7 +74,7 @@ Led a large-scale project involving multiple collaborators across the world (det
 - Developed and delivered both in-person and virtual course materials
 - Mentored students in scientific computing and data analysis techniques
 
-**Head of Data Analytics, HD-RGP** (June 2016 - June 2022)
+**Head of Data Analytics, HD-RGB** (June 2016 - June 2022)
 - Co-founded a startup for modifying older game consoles to output high-definition graphics
 - Created an ETL pipeline for sales and supply cost data - [link to spreadsheet](https://docs.google.com/spreadsheets/d/1YZGQ-dUq2i2hu4cSQS3iOyvBWM0f3d87647gBiFi33g/edit?gid=0#gid=0)
 - Analyze data for market insights and to drive revenue growth and profit
