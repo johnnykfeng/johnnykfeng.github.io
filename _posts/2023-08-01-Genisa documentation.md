@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Genisa: An Advanced Information Retrieval System for International Student Recruitment
+title: Genisa - An Advanced Information Retrieval System for International Student Recruitment
 categories: [LLM, RAG, MLOps, Web Scraping]
 
 ---
