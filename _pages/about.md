@@ -5,7 +5,6 @@ permalink: /about/
 ---
 *Last updated: June 2025*
 
-# About Me
 Currently, working as an Applied Scientist on the Detector Physics team in Redlen Technologies, investigating semiconductor x-ray detectors. In this role, I develop and refine physics-based models to understand semiconductor materials—focusing on carrier dynamics, space charge effects, and material defects. I design and execute electro-optic tests to characterize device performance, lead hands-on optical and mechanical system setups, and build custom hardware using CAD tools. My role also includes automating data acquisition and analysis in Python, managing technical documentation, and collaborating across engineering teams to ensure precise, reliable results that inform both technical improvements and business decisions.
 
 Throughout my Ph.D., I worked closely with data: doing multiparticle simulations of electron beams and tracking their real space and momentum space coordinates of up to 10000 particles, or analyzing time-series electron diffraction images. These projects involve Data Extraction, Data Cleaning, and Data Manipulation of large data sets (few Gb) and fitting them into theoretical models. I have been coding in Python for 10+ years and taught it for undergraduate courses. I am also knowledgeable in SQL, Tableau, and Excel. In addition to those technical skills I mentioned, I am very comfortable presenting my work to a technical and lay audience, and I have lots of experience writing technical reports. 
